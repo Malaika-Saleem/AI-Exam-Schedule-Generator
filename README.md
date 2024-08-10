@@ -18,7 +18,7 @@ This repository contains an AI-driven project aimed at creating the optimal exam
   - `studentNames.csv` - List of students.
   - `teachers.csv` - Information about teachers.
 - **Documentation:** A detailed document explaining the project's objectives, methodologies, and outcomes.
-  - `AI_PROJECT_documentation_22i0509_22i0542_aic.docx`
+  - `exam_schedule_generator_AI_report.docx`
 
 ## Getting Started
 
@@ -27,8 +27,5 @@ This repository contains an AI-driven project aimed at creating the optimal exam
 - Jupyter Notebook
 - Required Python libraries (specified in the notebook)
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/AI-Exam-Scheduler.git
+
 
